@@ -1,0 +1,12 @@
+2023-08-26 10:01:41 [INFO] Question: Which is the most happiness country?
+2023-08-26 10:01:41 [INFO] Running PandasAI with openai LLM...
+2023-08-26 10:01:41 [INFO] Prompt ID: 71ebcc33-32fa-4452-b472-c35bb451ba20
+2023-08-26 10:01:42 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-26 10:03:59 [INFO] Question: Which is the most happiness country?
+2023-08-26 10:03:59 [INFO] Running PandasAI with openai LLM...
+2023-08-26 10:03:59 [INFO] Prompt ID: ba65d9e6-12d4-4466-9241-c6e1ab072358
+2023-08-26 10:04:00 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-26 10:04:26 [INFO] Question: What are the 5 happiest countries
+2023-08-26 10:04:26 [INFO] Running PandasAI with openai LLM...
+2023-08-26 10:04:26 [INFO] Prompt ID: e064bc73-c005-4279-bbff-bd3026271d71
+2023-08-26 10:04:26 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
